@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Lonicera"
   text: "Blog"
-  tagline: 博客
+  tagline: 
   actions:
     - theme: brand
       text: Markdown Examples
