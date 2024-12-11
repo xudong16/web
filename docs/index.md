@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Lonicera"
   text: "Blog"
-  tagline: My great project tagline
+  tagline: 博客
   actions:
     - theme: brand
       text: Markdown Examples
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
